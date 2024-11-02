@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ravikiran kc
-- 👀 I’m interested in Java Development, React development, Full Stck Web Development, Technical Writing, Blogging, and Python..ETC...
+- 👀 I’m interested in Java Development, React development, Full Stack Web Development, Technical Writing, Blogging, and Python..ETC...
 - 🌱 I’m currently learning Node JS and AWS
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me: Ravikiran_24@yahoo.com
