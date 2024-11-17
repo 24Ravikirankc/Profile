@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java Development, React development, Technical Writing, Blogging, and Python..ETC...
 - 🌱 I’m currently learning Node JS and AWS
 - 💞️ I’m looking to collaborate on the Java projects
-- 📫 How to reach me: Ravikiran_24@yahoo.com
+- 📫 How to reach out to me: Ravikiran_24@yahoo.com
 - 📫 Mob: +91 7348851546
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Travel Freak, Reader
