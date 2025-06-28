@@ -24,13 +24,13 @@ You can click the Preview link to take a look at your changes.
 
 🌱 I am committed to continuous learning and professional growth in technical writing, programming, and data analytics. I am always looking for opportunities to expand my knowledge of industry best practices, emerging tools and technologies.
 
-In addition to my technical skills, I’m proficient in tools such as MadCap Flare, Adobe Frame Maker, and Oxygen XML Editor, which allow me to create, organize, and maintain documentation projects of any size. I’m also well-versed in version control systems like Git, enabling me to collaborate and track changes effectively.
+💪 In addition to my technical skills, I’m proficient in tools such as MadCap Flare, Adobe Frame Maker, and Oxygen XML Editor, which allow me to create, organize, and maintain documentation projects of any size. I’m also well-versed in version control systems like Git, enabling me to collaborate and track changes effectively.
 
-Apart from technical writing and data analysis, I have obtained certifications in JavaScript, an Agile project management crash course, and a Java full-stack development program to enhance my skillset.
+✌️ Apart from technical writing and data analysis, I have obtained certifications in JavaScript, an Agile project management crash course, and a Java full-stack development program to enhance my skillset.
 
-Thank you for reading.
+🤝 Thank you for reading.
 
-Best Regards,
-Ravikiran KC
-Email: Ravikiran_24@yahoo.com
-Mob: +91 7348851546
+🙏 Best Regards,
+<p>Ravikiran KC</p>
+<p>Email: Ravikiran_24@yahoo.com</p>
+<p>Mob: +91 7348851546</p>
